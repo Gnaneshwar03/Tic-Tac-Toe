@@ -6,6 +6,6 @@ module
 3. U can play the tic tac toe game in the grid when three figures
 matches , the he is the winner
 4. To restart the game you can press r , it starts from the beginning
-5. For more info on how the game is designed you can refer `report`.
+
 
 
