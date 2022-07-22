@@ -9,5 +9,6 @@ matches , the he is the winner
 5. For more info on how the game is designed you can refer `report`.
 
 ## results
-<a href="https://github.com/manikanthramavath/TIC-TAC-TOE/blob/main/IMAGES/"><img src="https://github.com/manikanthramavath/TIC-TAC-TOE/blob/main/IMAGES/Grid.jpeg" align="left" height="300" width="300" ></a>
-<a href="https://github.com/manikanthramavath/TIC-TAC-TOE/blob/main/IMAGES/"><img src="https://github.com/manikanthramavath/TIC-TAC-TOE/blob/main/IMAGES/Game.jpeg" align="left" height="300" width="300" ></a>
+<a href="https://user-images.githubusercontent.com/107243397/180408362-1876f2ea-543a-458b-a5e3-f7eb3c6e4220.jpeg" align="left" height="300" width="300" ></a>
+<a href="(https://user-images.githubusercontent.com/107243397/180408526-5fd59e0f-a0b2-44a6-aa77-18966458a97b.jpeg" align="left" height="300" width="300" ></a>
+
